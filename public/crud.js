@@ -1,5 +1,5 @@
-const API_URL = "http://localhost:3000/api/items";
-
+//const API_URL = "http://localhost:3000/api/items";
+const API_URL = "/api/items";
 //Cargar Publicaciones
 async function loadItems() {
   try {
